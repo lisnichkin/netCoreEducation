@@ -1,0 +1,4 @@
+D:\ProASP.NETCoreMVC2\WebStore\WebStore.Infrastructure\obj\Debug\netcoreapp2.0\WebStore.Infrastructure.csprojAssemblyReference.cache
+D:\ProASP.NETCoreMVC2\WebStore\WebStore.Infrastructure\obj\Debug\netcoreapp2.0\WebStore.Infrastructure.csproj.CoreCompileInputs.cache
+D:\ProASP.NETCoreMVC2\WebStore\WebStore.Infrastructure\obj\Debug\netcoreapp2.0\WebStore.Infrastructure.AssemblyInfoInputs.cache
+D:\ProASP.NETCoreMVC2\WebStore\WebStore.Infrastructure\obj\Debug\netcoreapp2.0\WebStore.Infrastructure.AssemblyInfo.cs

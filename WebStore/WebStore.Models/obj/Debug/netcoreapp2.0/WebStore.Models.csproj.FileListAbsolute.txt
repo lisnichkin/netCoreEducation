@@ -1,0 +1,8 @@
+D:\ProASP.NETCoreMVC2\WebStore\WebStore.Models\bin\Debug\netcoreapp2.0\WebStore.Models.deps.json
+D:\ProASP.NETCoreMVC2\WebStore\WebStore.Models\bin\Debug\netcoreapp2.0\WebStore.Models.dll
+D:\ProASP.NETCoreMVC2\WebStore\WebStore.Models\bin\Debug\netcoreapp2.0\WebStore.Models.pdb
+D:\ProASP.NETCoreMVC2\WebStore\WebStore.Models\obj\Debug\netcoreapp2.0\WebStore.Models.csproj.CoreCompileInputs.cache
+D:\ProASP.NETCoreMVC2\WebStore\WebStore.Models\obj\Debug\netcoreapp2.0\WebStore.Models.AssemblyInfoInputs.cache
+D:\ProASP.NETCoreMVC2\WebStore\WebStore.Models\obj\Debug\netcoreapp2.0\WebStore.Models.AssemblyInfo.cs
+D:\ProASP.NETCoreMVC2\WebStore\WebStore.Models\obj\Debug\netcoreapp2.0\WebStore.Models.dll
+D:\ProASP.NETCoreMVC2\WebStore\WebStore.Models\obj\Debug\netcoreapp2.0\WebStore.Models.pdb

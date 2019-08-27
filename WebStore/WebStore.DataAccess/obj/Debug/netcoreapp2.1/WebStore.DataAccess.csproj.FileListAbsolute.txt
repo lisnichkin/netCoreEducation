@@ -1,0 +1,9 @@
+D:\ProASP.NETCoreMVC2\WebStore\WebStore.DataAccess\bin\Debug\netcoreapp2.1\WebStore.DataAccess.deps.json
+D:\ProASP.NETCoreMVC2\WebStore\WebStore.DataAccess\bin\Debug\netcoreapp2.1\WebStore.DataAccess.dll
+D:\ProASP.NETCoreMVC2\WebStore\WebStore.DataAccess\obj\Debug\netcoreapp2.1\WebStore.DataAccess.csprojAssemblyReference.cache
+D:\ProASP.NETCoreMVC2\WebStore\WebStore.DataAccess\obj\Debug\netcoreapp2.1\WebStore.DataAccess.csproj.CoreCompileInputs.cache
+D:\ProASP.NETCoreMVC2\WebStore\WebStore.DataAccess\obj\Debug\netcoreapp2.1\WebStore.DataAccess.AssemblyInfoInputs.cache
+D:\ProASP.NETCoreMVC2\WebStore\WebStore.DataAccess\obj\Debug\netcoreapp2.1\WebStore.DataAccess.AssemblyInfo.cs
+D:\ProASP.NETCoreMVC2\WebStore\WebStore.DataAccess\bin\Debug\netcoreapp2.1\WebStore.DataAccess.pdb
+D:\ProASP.NETCoreMVC2\WebStore\WebStore.DataAccess\obj\Debug\netcoreapp2.1\WebStore.DataAccess.dll
+D:\ProASP.NETCoreMVC2\WebStore\WebStore.DataAccess\obj\Debug\netcoreapp2.1\WebStore.DataAccess.pdb

@@ -1,0 +1,12 @@
+D:\ProASP.NETCoreMVC2\WebStore\Contracts\bin\Debug\netcoreapp2.0\WebStore.Contracts.deps.json
+D:\ProASP.NETCoreMVC2\WebStore\Contracts\bin\Debug\netcoreapp2.0\WebStore.Contracts.dll
+D:\ProASP.NETCoreMVC2\WebStore\Contracts\bin\Debug\netcoreapp2.0\WebStore.Contracts.pdb
+D:\ProASP.NETCoreMVC2\WebStore\Contracts\bin\Debug\netcoreapp2.0\WebStore.Models.dll
+D:\ProASP.NETCoreMVC2\WebStore\Contracts\bin\Debug\netcoreapp2.0\WebStore.Models.pdb
+D:\ProASP.NETCoreMVC2\WebStore\Contracts\obj\Debug\netcoreapp2.0\WebStore.Contracts.csprojAssemblyReference.cache
+D:\ProASP.NETCoreMVC2\WebStore\Contracts\obj\Debug\netcoreapp2.0\WebStore.Contracts.csproj.CoreCompileInputs.cache
+D:\ProASP.NETCoreMVC2\WebStore\Contracts\obj\Debug\netcoreapp2.0\WebStore.Contracts.AssemblyInfoInputs.cache
+D:\ProASP.NETCoreMVC2\WebStore\Contracts\obj\Debug\netcoreapp2.0\WebStore.Contracts.AssemblyInfo.cs
+D:\ProASP.NETCoreMVC2\WebStore\Contracts\obj\Debug\netcoreapp2.0\WebStore.Contracts.csproj.CopyComplete
+D:\ProASP.NETCoreMVC2\WebStore\Contracts\obj\Debug\netcoreapp2.0\WebStore.Contracts.dll
+D:\ProASP.NETCoreMVC2\WebStore\Contracts\obj\Debug\netcoreapp2.0\WebStore.Contracts.pdb
